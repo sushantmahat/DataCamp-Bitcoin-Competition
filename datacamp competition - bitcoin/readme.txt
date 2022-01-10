@@ -1,0 +1,1 @@
+I wrote this analysis for a datacamp competition. The competition criteria has been detailed in the notebook itself. I am uploading a semi finished copy to github since I still want to run a couple more analysis on this work. 
